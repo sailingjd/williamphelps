@@ -31,17 +31,13 @@
 		});
 
 		/* ---------------------------------------------- /*
-		 * Background images
+		 * Background image
 		/* ---------------------------------------------- */
 
-		$('#intro').backstretch([
-			'assets/images/books-magazines-building-school.jpg',
-			'assets/images/law-practice-books.jpg',
-			'assets/images/legal-courtroom.jpg'
-		], {duration: 3000, fade: 750});
+		$('#intro').backstretch(['assets/images/bg4.jpg']);
 
 		/* ---------------------------------------------- /*
- 		 * Navbar
+		 * Navbar
 		/* ---------------------------------------------- */
 
 		var navbar = $('.navbar');
