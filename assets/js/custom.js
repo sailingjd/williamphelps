@@ -35,9 +35,9 @@
 		/* ---------------------------------------------- */
 
 		$('#intro').backstretch([
-			'assets/images/bg3.jpg',
-			'assets/images/bg4.jpg',
-			'assets/images/bg2.jpg'
+			'assets/images/books-magazines-building-school.jpg',
+			'assets/images/law-practice-books.jpg',
+			'assets/images/legal-courtroom.jpg'
 		], {duration: 3000, fade: 750});
 
 		/* ---------------------------------------------- /*
