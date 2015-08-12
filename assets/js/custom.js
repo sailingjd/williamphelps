@@ -34,7 +34,7 @@
 		 * Background image
 		/* ---------------------------------------------- */
 
-		$('#intro').backstretch(['assets/images/blue-legal-scale.png']);
+		$('#intro').backstretch(['assets/images/legal-library-bg.png']);
 
 		/* ---------------------------------------------- /*
 		 * Navbar
