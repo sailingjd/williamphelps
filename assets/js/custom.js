@@ -34,7 +34,7 @@
 		 * Background image
 		/* ---------------------------------------------- */
 
-		$('#intro').backstretch(['assets/images/bg4.jpg']);
+		$('#intro').backstretch(['assets/images/blue-legal-scale.png']);
 
 		/* ---------------------------------------------- /*
 		 * Navbar

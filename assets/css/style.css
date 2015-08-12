@@ -21,7 +21,7 @@ img {
 }
 
 a {
-	color: #EF4836;
+	color: #DC6300;
 }
 
 a:hover {
@@ -203,7 +203,7 @@ a,
 
 .btn-custom-1, .btn-custom-2 {
 	background: transparent;
-	border: 2px solid #EF4836;
+	border: 2px solid #DC6300;
 	padding: 15px 25px;
 }
 
@@ -212,7 +212,7 @@ a,
 }
 
 .btn-custom-1:hover, .btn-custom-1:focus, .btn-custom-1:active, .btn-custom-1.active {
-	background: #EF4836;
+	background: #DC6300;
 	border: 2px solid #EF4836;
 	color: #FFF;
 }
@@ -318,7 +318,7 @@ a,
 }
 
 .label-custom-1 {
-	background: #EF4836;
+	background: #DC6300;
 }
 
 .label-custom-2 {
@@ -356,7 +356,7 @@ a,
 }
 
 .rotate {
-	text-shadow: 0 0 0 !important;
+	text-shadow: 2px 2px #DC6300 !important;
 }
 
 .nomargin {
@@ -448,7 +448,7 @@ h3 > .fa {
 .navbar-custom .nav li.active {
 	background: none;
 	outline: 0;
-	color: #EF4836;
+	color: #DC6300;
 }
 
 .navbar-custom .navbar-brand {
@@ -467,7 +467,7 @@ h3 > .fa {
 .navbar-custom .navbar-nav > li > a,
 .navbar-custom .navbar-nav .dropdown-menu > li > a {
 	color: #FFF;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 .navbar-color,
@@ -515,6 +515,7 @@ h3 > .fa {
 
 #intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
 	color: #FFF;
+    text-shadow: 3px 3px #DC6300;
 }
 
 .hello {
@@ -563,7 +564,7 @@ h3 > .fa {
 }
 
 .widget-social li a:hover {
-	background: #EF4836;
+	background: #DC6300;
 }
 
 .stat .stat-icon {
